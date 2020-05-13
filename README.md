@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+### facebook-cracker
+### Facebook Cracker Version 1.0 can crack into Facebook Database 100% without Interruption By Facebook Firewall 
+### This program is for educational purposes only.
+### Don't attack people facebook accounts it's illegal ! 
+### If you want to crack into someone's account, you must have the permission of the user. 
+### Mauritania Attacker is not responsible
 
-You can use the [editor on GitHub](https://github.com/rahul-alt/Facebook---hack-byrahul/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Whit is a facebook-cracker
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### I have written lots of facebook hacking art icle like hack facebook using android smartphone,open source tools,python and perl script etc.. But Toady I'will tell you about hacking in Facebook Using Brute force attack.
+### In brute force attack method,tool try all combination of password to provide access of victim account Brute force attack is the only successful method to hack facebook account. Hack Facebook Account Password Using Brute
 
-### Markdown
+### Download&Install
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### gitclonehttps://github.com/rahul-alt/Facebook---hack-byrahul.git
+   
+### cd facebook-cracker
 
-```markdown
-Syntax highlighted code block
+### chmod +x facebook.py
 
-# Header 1
-## Header 2
-### Header 3
+### python facebook.py
 
-- Bulleted
-- List
+### ScreenShot
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rahul-alt/Facebook---hack-byrahul/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
